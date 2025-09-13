@@ -22,7 +22,7 @@ A basic text editor application built with Java Swing that provides essential no
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ampmpasindu/simple-notepad-app
 cd SimpleNotepad
 ```
 2. Compile the Java source code:
