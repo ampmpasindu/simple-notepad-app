@@ -4,12 +4,12 @@ A basic text editor application built with Java Swing that provides essential no
 
 ## Features
 
-Create new text files
-Open existing text files
-Save text files
-Cut, copy, and paste text operations
-Simple about dialog with creator information
-Intuitive GUI with menu bar
+ - Create new text files
+ - Open existing text files
+ - Save text files
+ - Cut, copy, and paste text operations
+ - Simple about dialog with creator information
+ - Intuitive GUI with menu bar
 
 ## Setup Instructions
 
